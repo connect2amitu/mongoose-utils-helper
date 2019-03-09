@@ -15,6 +15,9 @@
 $ npm install mongoose-utils-helper
 
 ```
+
+## Getting Started
+
 ## Importing
 
 ```javascript
@@ -28,17 +31,10 @@ const {
     mongoose  // mongoose package object
 } = require('mongoose-utils-helper');
 
-  
-
 // Using ES6 imports
-
 import { connection, createModel, common_helper, commonFuns, mongoose } from  'mongoose-utils-helper';
 
 ```
-  
-
-## Overview
-
 ### Connecting to MongoDB
 
 First, we need to define a connection. If your app uses only one database, you should use `connection()` function.
@@ -146,6 +142,9 @@ let  convertedMongoObjId = await  commonFuns.convertMongoId(mongodbId);
 let  convertedMongoObjId = await  commonFuns.mongooseCheckValid(mongodbId);
 
 ```
+##Authors
+
+[Amit Chauhan](https://api.whatsapp.com/send?phone=9586253639&text=hey%20Amit,)
 
 ## License
 
