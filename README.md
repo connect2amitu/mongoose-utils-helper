@@ -126,15 +126,10 @@ let  data = await  common_helper.find(MyModel, condition);
 #### Example:
 
 ```js
-
 // Using Node.js `require()`
-
 const { commonFuns } = require('mongoose-utils-helper');
 
-  
-
 // Using ES6 imports
-
 import { commonFuns } from  'mongoose-utils-helper';
 
 let  mongodbId = "5ac343820e617c07555c47f0"
