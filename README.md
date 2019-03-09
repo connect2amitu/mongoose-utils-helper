@@ -8,6 +8,13 @@
     Always happy to help you,
   *Happy Coding..&#9829;&#x2665;&hearts;* 
   
+## Installation
+
+```sh
+
+$ npm install mongoose-utils-helper
+
+```
 ## Importing
 
 ```javascript
@@ -29,13 +36,7 @@ import { connection, createModel, common_helper, commonFuns, mongoose } from  'm
 
 ```
   
-## Installation
 
-```sh
-
-$ npm install mongoose-utils-helper
-
-```
 ## Overview
 
 ### Connecting to MongoDB
