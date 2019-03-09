@@ -6,7 +6,8 @@
   Welcome Users, 
   **Don't repeat yourself, use reusable code :)**
     Always happy to help you,
-  *Happy Coding..&#9829;&#x2665;&hearts;* 
+    
+  *Happy Coding &#9829;* 
   
 ## Installation
 
