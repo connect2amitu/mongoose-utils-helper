@@ -148,4 +148,4 @@ let  convertedMongoObjId = await  commonFuns.mongooseCheckValid(mongodbId);
 
 ## License
 
-Copyright (c) 2019 DGSM &lt;connect2amitu@gmail.com&gt;a
+Copyright (c) 2019 DGSM &lt;connect2amitu@gmail.com&gt;
