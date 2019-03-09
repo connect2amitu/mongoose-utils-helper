@@ -1,6 +1,6 @@
 {
   "name": "mongoose-utils-helper",
-  "version": "1.0.4",
+  "version": "1.0.7",
   "description": "",
   "main": "index.js",
   "dependencies": {
@@ -11,6 +11,26 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Amit Chauhan <amc@narola.email>",
+  "author": "Amit Chauhan <connect2amitu@gmail.email>",
+  "keywords": [
+    "mongodb",
+    "mongoose",
+    "document",
+    "model",
+    "schema",
+    "database",
+    "data",
+    "query",
+    "nosql",
+    "db",
+    "common",
+    "utils",
+    "util",
+    "helper"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/connect2amitu/mongoose-utils-helper"
+  },
   "license": "MIT"
 }
