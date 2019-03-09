@@ -6,7 +6,7 @@
   Welcome Users, 
   **Don't repeat yourself, use reusable code :)**
     Always happy to help you,
-    
+
   *Happy Coding &#9829;* 
   
 ## Installation
@@ -145,7 +145,7 @@ let  convertedMongoObjId = await  commonFuns.mongooseCheckValid(mongodbId);
 ```
 ##Authors
 
-[Amit Chauhan](https://api.whatsapp.com/send?phone=9586253639&text=hey%20Amit,)
+[Amit Chauhan](https://api.whatsapp.com/send?phone=+919586253639&text=hey%20Amit,)
 
 ## License
 
